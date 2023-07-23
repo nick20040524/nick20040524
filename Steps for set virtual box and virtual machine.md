@@ -53,8 +53,21 @@
 - Step 7
   --
   啟動新建立的虛擬機。
-  Run the new virtual machine. 
+  
+  Run the new virtual machine.
+  ![image](https://github.com/nick20040524/nick20040524/assets/135346254/bba4aa73-3bee-4370-b950-a44ccfc864d0)
 
+- Step 8
+  --
+  點擊虛擬機視窗的右上角，進入顯示器，將虛擬機的解析度設定為符合螢幕大小(通常為1920x1080)。否則在安裝ubuntu時會出現「下一步」按鈕消失的狀況。
+  
+  Click on the upper right corner of the window of the VM(virtual machine). Press the setting, and enter the monitor. Set the resolution of the virtual machine to fit the screen size. (Often is 1920*1080)
+  Otherwise, when we install Ubuntu, the "next" button will be disappeared outside of the window.
+  ![image](https://github.com/nick20040524/nick20040524/assets/135346254/6cdb5b98-18fa-4246-a61a-a76742f2bdc6)
+- Step 9
+  --
+  安裝Ubuntu作業系統，並且不斷按「下一步」。
+  Install the Ubuntu system, and keep clicking "next".
 <!---
 nick20040524/nick20040524 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
