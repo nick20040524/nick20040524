@@ -67,6 +67,7 @@
 - Step 9
   --
   安裝Ubuntu作業系統，並且不斷按「下一步」。
+  
   Install the Ubuntu system, and keep clicking "next".
 <!---
 nick20040524/nick20040524 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
